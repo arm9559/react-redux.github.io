@@ -1,0 +1,12 @@
+header{
+    display: flex;
+    align-items: center;
+    position: relative;
+    width: 100%;
+}
+.svg-container{
+    svg{
+        height: 75px;
+        margin:5px;
+    }
+}
